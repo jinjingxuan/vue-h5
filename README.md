@@ -1,24 +1,4 @@
-# vue-h5
+# vue-h5 移动端适配项目
 
-## Project setup
-```
-yarn install
-```
+采用 vw + rem 方式
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
